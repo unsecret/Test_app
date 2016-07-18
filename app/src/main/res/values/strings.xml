@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test_app</string>
+    <string name="defaultpassword">User Guide<a href="market://details?id=com.spotify.music">market://details?id=com.spotify.music</a></string>
 </resources>
